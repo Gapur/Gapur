@@ -15,11 +15,11 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="500" height="380" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently working on something cool;
 - 🌱 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://medium.com/@gapur.kassym)
@@ -28,8 +28,13 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+Java         4 hrs           ████████████████▒░░░░░░░░   65.62 % 
+JavaScript   1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
+XML          54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Typescript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+```
 <!--END_SECTION:waka-->
-
 
 📈 My GitHub Stats
 
