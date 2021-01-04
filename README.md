@@ -1,45 +1,40 @@
 ### Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Gapur Kassym</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Gapur's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/GKassym">
-  <img align="left" alt="Gapur Kassym | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/gapur-kassym/">
-  <img align="left" alt="Gapur's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@gapur.kassym)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
 <br />
 
-Hi, I'm [Gapur Kassym!](https://gkassym.netlify.app), a passionate self-taught Full Stack Web Developer 🚀 from Kazakhstan.
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
+- 🌱 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@GKassym](https://twitter.com/GKassym);
+- 📝 I regulary write articles on [medium](https://medium.com/@gapur.kassym)
+- 📫 How to reach me: gapur.kassym@gmail.com;
 - 📝[Resume](https://gkassym.netlify.app/Resume.pdf)
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-```text
-Java        4 hrs           ████████████████▒░░░░░░░░   65.62 % 
-JavaScript  1 hr 9 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Markdown    54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Typescript  1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-```
 <!--END_SECTION:waka-->
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&theme=gotham" alt="Gapur" />
+![Gapur's github stats](https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
