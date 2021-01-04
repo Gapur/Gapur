@@ -13,12 +13,12 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="400" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="394" height="312" />
   
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://medium.com/@gapur.kassym)
@@ -39,8 +39,8 @@ Typescript  1 min        ░░░░░░░░░░░░░░░░░░�
 
 📈 My GitHub Stats
 
-![Gapur's github stats](https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&theme=gotham)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gapur&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 
 
