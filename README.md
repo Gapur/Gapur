@@ -23,7 +23,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 - 🌱 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://medium.com/@gapur.kassym)
-- 📫 How to reach me: [@GKassym](https://twitter.com/GKassym);
+- 📫 How to reach me: gapur.kassym@gmail.com;
 - 📝[Resume](https://gkassym.netlify.app/Resume.pdf)
 
 📊 **This Week I Spent My Time On:**
