@@ -30,9 +30,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java     17 mins         █████████████▒░░░░░░░░░░░   53.51 % 
-Groovy   14 mins         ██████████▓░░░░░░░░░░░░░░   43.10 % 
-XML      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
