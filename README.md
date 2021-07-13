@@ -30,7 +30,9 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   46 mins         ██████████████████░░░░░░░   71.61 % 
+CSS          17 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
+TypeScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 <!--END_SECTION:waka-->
 
