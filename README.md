@@ -30,7 +30,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JSON         18 mins         ████████████████████████▒   96.74 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
