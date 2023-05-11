@@ -31,8 +31,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-Cocoa   0 secs          ████████████████████▒░░░░   80.92 %
-JSON    0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
