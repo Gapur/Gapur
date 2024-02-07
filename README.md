@@ -31,11 +31,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   51 mins         ████████████▓░░░░░░░░░░░░   50.37 %
-TypeScript   41 mins         ██████████░░░░░░░░░░░░░░░   40.51 %
-CSS          3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+TypeScript   13 mins         █████████████████████░░░░   83.67 %
+JavaScript   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
 ```
 
 <!--END_SECTION:waka-->
